@@ -56,11 +56,11 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongodb+srv://Erogire:erogirelad@cluster1.boyfnr5.mongodb.net/?retryWrites=true&w=majority",
+            "description": "mongodb+srv://curd:milk@cluster0.boyfnr5.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
-            "description": "cluster1",
+            "description": "cluster0",
             "required": false
         },
         "COLLECTION_NAME": {
